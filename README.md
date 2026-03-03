@@ -14,3 +14,23 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 - Stack & Queue
 - Trees
 - Dynamic Programming
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Yash-coder0/dsa-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Yash-coder0/dsa-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Yash-coder0/dsa-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Yash-coder0/dsa-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+<!---LeetCode Topics End-->
