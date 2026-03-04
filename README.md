@@ -38,6 +38,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Yash-coder0/dsa-java/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yash-coder0/dsa-java/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [1470-shuffle-the-array](https://github.com/Yash-coder0/dsa-java/tree/main/1470-shuffle-the-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
