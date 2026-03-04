@@ -37,6 +37,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Yash-coder0/dsa-java/tree/main/0055-jump-game/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Yash-coder0/dsa-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yash-coder0/dsa-java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/Yash-coder0/dsa-java/tree/main/0832-flipping-an-image/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Yash-coder0/dsa-java/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
@@ -57,6 +58,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Yash-coder0/dsa-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yash-coder0/dsa-java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/Yash-coder0/dsa-java/tree/main/0832-flipping-an-image/) | Easy |
 ## Math
@@ -84,4 +86,8 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/Yash-coder0/dsa-java/tree/main/0832-flipping-an-image/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Yash-coder0/dsa-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
