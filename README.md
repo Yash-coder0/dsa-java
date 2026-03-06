@@ -64,6 +64,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Yash-coder0/dsa-java/tree/main/0007-reverse-integer/) | Medium |
 | [0509-fibonacci-number](https://github.com/Yash-coder0/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
