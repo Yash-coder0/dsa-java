@@ -94,6 +94,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/Yash-coder0/dsa-java/tree/main/0006-zigzag-conversion/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Yash-coder0/dsa-java/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Yash-coder0/dsa-java/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/Yash-coder0/dsa-java/tree/main/2785-sort-vowels-in-a-string/) | Medium |
