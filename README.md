@@ -83,6 +83,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash-coder0/dsa-java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0148-sort-list](https://github.com/Yash-coder0/dsa-java/tree/main/0148-sort-list/) | Medium |
 | [0832-flipping-an-image](https://github.com/Yash-coder0/dsa-java/tree/main/0832-flipping-an-image/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -103,9 +104,22 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Yash-coder0/dsa-java/tree/main/0148-sort-list/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/Yash-coder0/dsa-java/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash-coder0/dsa-java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Yash-coder0/dsa-java/tree/main/0148-sort-list/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Yash-coder0/dsa-java/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Yash-coder0/dsa-java/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
