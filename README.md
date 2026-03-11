@@ -82,6 +82,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash-coder0/dsa-java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0832-flipping-an-image](https://github.com/Yash-coder0/dsa-java/tree/main/0832-flipping-an-image/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Yash-coder0/dsa-java/tree/main/0006-zigzag-conversion/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash-coder0/dsa-java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Yash-coder0/dsa-java/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Yash-coder0/dsa-java/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/Yash-coder0/dsa-java/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -102,4 +104,8 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2785-sort-vowels-in-a-string](https://github.com/Yash-coder0/dsa-java/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash-coder0/dsa-java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
