@@ -36,6 +36,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Yash-coder0/dsa-java/tree/main/0001-two-sum/) | Easy |
 | [0055-jump-game](https://github.com/Yash-coder0/dsa-java/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Yash-coder0/dsa-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yash-coder0/dsa-java/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -92,6 +93,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Yash-coder0/dsa-java/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Yash-coder0/dsa-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## String
 | Problem Name | Difficulty |
