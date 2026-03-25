@@ -85,6 +85,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash-coder0/dsa-java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0061-rotate-list](https://github.com/Yash-coder0/dsa-java/tree/main/0061-rotate-list/) | Medium |
 | [0148-sort-list](https://github.com/Yash-coder0/dsa-java/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yash-coder0/dsa-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0832-flipping-an-image](https://github.com/Yash-coder0/dsa-java/tree/main/0832-flipping-an-image/) | Easy |
@@ -118,6 +119,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Yash-coder0/dsa-java/tree/main/0061-rotate-list/) | Medium |
 | [0148-sort-list](https://github.com/Yash-coder0/dsa-java/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yash-coder0/dsa-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Yash-coder0/dsa-java/tree/main/0206-reverse-linked-list/) | Easy |
