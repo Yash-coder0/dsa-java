@@ -133,4 +133,8 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Yash-coder0/dsa-java/tree/main/0148-sort-list/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1084-sales-analysis-iii](https://github.com/Yash-coder0/dsa-java/tree/main/1084-sales-analysis-iii/) | Easy |
 <!---LeetCode Topics End-->
