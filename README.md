@@ -43,6 +43,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | [0832-flipping-an-image](https://github.com/Yash-coder0/dsa-java/tree/main/0832-flipping-an-image/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Yash-coder0/dsa-java/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Yash-coder0/dsa-java/tree/main/1470-shuffle-the-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-coder0/dsa-java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | [0007-reverse-integer](https://github.com/Yash-coder0/dsa-java/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/Yash-coder0/dsa-java/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/Yash-coder0/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-coder0/dsa-java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +139,8 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1084-sales-analysis-iii](https://github.com/Yash-coder0/dsa-java/tree/main/1084-sales-analysis-iii/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-coder0/dsa-java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
