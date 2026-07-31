@@ -42,6 +42,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | [0055-jump-game](https://github.com/Yash-coder0/dsa-java/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Yash-coder0/dsa-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yash-coder0/dsa-java/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Yash-coder0/dsa-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0832-flipping-an-image](https://github.com/Yash-coder0/dsa-java/tree/main/0832-flipping-an-image/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Yash-coder0/dsa-java/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Yash-coder0/dsa-java/tree/main/1470-shuffle-the-array/) | Easy |
@@ -107,6 +108,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | [0001-two-sum](https://github.com/Yash-coder0/dsa-java/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Yash-coder0/dsa-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yash-coder0/dsa-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Yash-coder0/dsa-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Yash-coder0/dsa-java/tree/main/0148-sort-list/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Yash-coder0/dsa-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/Yash-coder0/dsa-java/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -135,6 +138,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Yash-coder0/dsa-java/tree/main/0148-sort-list/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Yash-coder0/dsa-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,4 +155,20 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Yash-coder0/dsa-java/tree/main/0042-trapping-rain-water/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yash-coder0/dsa-java/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yash-coder0/dsa-java/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yash-coder0/dsa-java/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yash-coder0/dsa-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
