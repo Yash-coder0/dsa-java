@@ -45,6 +45,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | [0347-top-k-frequent-elements](https://github.com/Yash-coder0/dsa-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0832-flipping-an-image](https://github.com/Yash-coder0/dsa-java/tree/main/0832-flipping-an-image/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Yash-coder0/dsa-java/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-coder0/dsa-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Yash-coder0/dsa-java/tree/main/1470-shuffle-the-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-coder0/dsa-java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Dynamic Programming
@@ -122,6 +123,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Yash-coder0/dsa-java/tree/main/0148-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Yash-coder0/dsa-java/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-coder0/dsa-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/Yash-coder0/dsa-java/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -159,6 +161,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Yash-coder0/dsa-java/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-coder0/dsa-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
