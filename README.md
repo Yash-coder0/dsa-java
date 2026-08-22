@@ -75,6 +75,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | [0050-powx-n](https://github.com/Yash-coder0/dsa-java/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/Yash-coder0/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-coder0/dsa-java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Yash-coder0/dsa-java/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/Yash-coder0/dsa-java/tree/main/2652-sum-multiples/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
