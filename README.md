@@ -49,6 +49,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-coder0/dsa-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Yash-coder0/dsa-java/tree/main/1470-shuffle-the-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-coder0/dsa-java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3979-maximum-valid-pair-sum](https://github.com/Yash-coder0/dsa-java/tree/main/3979-maximum-valid-pair-sum/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,4 +180,8 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Yash-coder0/dsa-java/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3979-maximum-valid-pair-sum](https://github.com/Yash-coder0/dsa-java/tree/main/3979-maximum-valid-pair-sum/) | Medium |
 <!---LeetCode Topics End-->
