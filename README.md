@@ -38,6 +38,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Yash-coder0/dsa-java/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Yash-coder0/dsa-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Yash-coder0/dsa-java/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/Yash-coder0/dsa-java/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Yash-coder0/dsa-java/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -57,6 +58,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Yash-coder0/dsa-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Yash-coder0/dsa-java/tree/main/0055-jump-game/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -95,6 +97,7 @@ This repository tracks my Data Structures & Algorithms journey using Java.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Yash-coder0/dsa-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash-coder0/dsa-java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Yash-coder0/dsa-java/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Yash-coder0/dsa-java/tree/main/0061-rotate-list/) | Medium |
